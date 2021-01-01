@@ -6,7 +6,7 @@ JPEG to KoalaPainter
 VERSION
 -------
 
-Version 0.01 (2021-01-01)
+Version 0.02-SNAPSHOT (2021-01-01)
 
 INSTALLATION
 ------------
@@ -22,7 +22,7 @@ In order to build and run an application JAR type the following:
     $ git clone git://github.com/pawelkrol/jpg2kla.git
     $ cd jpg2kla
     $ sbt clean update compile test package proguard:proguard run
-    $ java -Dfile.encoding=UTF8 -jar target/scala-2.13/proguard/jpg2kla-0.01.jar
+    $ java -Dfile.encoding=UTF8 -jar target/scala-2.13/proguard/jpg2kla-0.02-SNAPSHOT.jar
 
 ### Download precompiled binaries
 

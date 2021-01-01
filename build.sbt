@@ -3,7 +3,7 @@ lazy val root = (project in file(".")).settings(
   name := "jpg2kla",
   scalaVersion := "2.13.4",
   scalacOptions ++= Seq("-deprecation", "-feature"),
-  version := "0.01"
+  version := "0.02-SNAPSHOT"
 )
 
 fork in run := true

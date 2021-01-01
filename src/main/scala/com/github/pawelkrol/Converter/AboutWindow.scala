@@ -13,7 +13,7 @@ class AboutWindow(
 
   private val details = "<strong>jpg2kla</strong> is a simple graphic format converter utility wrapped by an uncomplicated user interface. It enables batch conversion of multiple JPEG files into KoalaPainter format."
 
-  private val version = "0.01 (2021-01-01)"
+  private val version = "0.02-SNAPSHOT (2021-01-01)"
 
   private val copyrightString = "Copyright © 2021 Paweł Król"
 
