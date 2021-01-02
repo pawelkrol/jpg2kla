@@ -3,6 +3,8 @@ JPEG to KoalaPainter
 
 `jpg2kla` is a simple graphic format converter utility wrapped by a simple GUI.
 
+![jpg2kla screenshot](doc/jpg2kla-screenshot.png)
+
 VERSION
 -------
 
